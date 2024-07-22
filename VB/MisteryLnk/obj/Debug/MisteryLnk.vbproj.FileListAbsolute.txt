@@ -1,0 +1,8 @@
+C:\Users\MONSTERMC\Downloads\MisterioLNK-main\MisterioLNK-main\New folder\MisteryLnk\bin\Debug\Misterio.exe.config
+C:\Users\MONSTERMC\Downloads\MisterioLNK-main\MisterioLNK-main\New folder\MisteryLnk\bin\Debug\Misterio.exe
+C:\Users\MONSTERMC\Downloads\MisterioLNK-main\MisterioLNK-main\New folder\MisteryLnk\obj\Debug\MisteryLnk.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\Downloads\MisterioLNK-main\MisterioLNK-main\New folder\MisteryLnk\obj\Debug\MisteryLnk.Form1.resources
+C:\Users\MONSTERMC\Downloads\MisterioLNK-main\MisterioLNK-main\New folder\MisteryLnk\obj\Debug\Resources.resources
+C:\Users\MONSTERMC\Downloads\MisterioLNK-main\MisterioLNK-main\New folder\MisteryLnk\obj\Debug\MisteryLnk.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\Downloads\MisterioLNK-main\MisterioLNK-main\New folder\MisteryLnk\obj\Debug\MisteryLnk.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\Downloads\MisterioLNK-main\MisterioLNK-main\New folder\MisteryLnk\obj\Debug\Misterio.exe
